@@ -8,5 +8,5 @@ CN_DCMS-Social [开源地址](https://github.com/eKing-one/dcms)
 ## 目录
 
 ## 更新计划
-- [ ] 做好索引分类
+- [ ] 分类
 - [ ] 插入图片,方便阅读
