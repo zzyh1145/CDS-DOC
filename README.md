@@ -1,9 +1,9 @@
- # CN_DCMS-Social的保姆式教程&帮助
+ # CN_DCMS-Social的保姆式教程&帮助&管理条例
 
 CN_DCMS-Social [开源地址](https://github.com/eKing-one/dcms)
 > CN_DCMS-Social为全称,文中的'CDS'为简称
 
-目前处于起步阶段,未完善
+目前处于起步阶段,正在完善中
 
 ## 目录
 
