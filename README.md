@@ -1,5 +1,7 @@
  # CN_DCMS-Social的保姆式教程&帮助&管理条例
 
+![CDS-LOGO](/image/CDS-LOGO.png)
+
 CN_DCMS-Social [开源地址](https://github.com/eKing-one/dcms)
 > CN_DCMS-Social为全称,文中的'CDS'为简称
 
